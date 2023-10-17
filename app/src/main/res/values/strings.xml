@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pokemon9</string>
+    <string name="pokemon">Pokemon</string>
+    <string name="press_button">Press Button</string>
+</resources>
